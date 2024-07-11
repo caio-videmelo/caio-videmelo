@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to Data Science and Blockchain Development, especially those related to the health sciences!
 - 📫 How to reach me: You can reach me via e-mail! caio.videmelo@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm a psychologist interested in Data Science and Blockchain!
+- ⚡ Fun fact: I'm a psychologist trying to become a Dev in Data Science and Blockchain!
 
 <!---
 caio-videmelo/caio-videmelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
