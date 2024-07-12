@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @caio-videmelo
+- 👋 Hi, I’m Caio Melo, or @caio-videmelo if you prefer.
 - 👀 I’m interested in Data Science, R, Python, Solidity, SQL and Blockchain Development!
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning Programming Logic!
 - 💞️ I’m looking to collaborate on projects related to Data Science and Blockchain Development, especially those related to the health sciences!
 - 📫 How to reach me: You can reach me via e-mail! caio.videmelo@gmail.com
 - 😄 Pronouns: He/His
