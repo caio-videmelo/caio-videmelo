@@ -2,7 +2,7 @@
 
 About Me
 
-I'm a psychologist with an MSc in Mental Health from Brazil, currently transitioning from the psychology and health sciences field to Data Science and Development. My journey into tech is fueled by my passion for leveraging data to drive impactful solutions, particularly in the health sciences domain.
+I'm a psychologist with an MSc in Mental Health from Brazil, currently transitioning from the psychology and health sciences field to Data Science and Development. My journey into tech is fueled by my belief for leveraging data to drive impactful solutions, particularly in the health sciences domain.
 
 Skills and Interests
 
