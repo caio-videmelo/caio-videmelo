@@ -6,11 +6,12 @@ I'm a psychologist with an MSc in Mental Health from Brazil, currently transitio
 
 Skills and Interests
 
-:trophy: Badges: 
-[badge-python.pdf](https://github.com/user-attachments/files/16324439/badge-python.pdf)
-[badge-github.pdf](https://github.com/user-attachments/files/16324438/badge-github.pdf)
-[badge-copilot.pdf](https://github.com/user-attachments/files/16324437/badge-copilot.pdf)
-[badge-GPT.pdf](https://github.com/user-attachments/files/16324436/badge-GPT.pdf)
+:trophy: Badges: ![badge-GPT](https://github.com/user-attachments/assets/8ebccaeb-a5fc-40e6-9d19-5f6b06b8ab19)
+![badge-copilot](https://github.com/user-attachments/assets/650ce67c-fc94-4f1a-86c1-70741485a775)
+![badge-github](https://github.com/user-attachments/assets/819c082c-ce7a-4e6f-abf5-684d164ef0b4)
+![badge-python](https://github.com/user-attachments/assets/44a6f1de-b066-4672-8efc-39113bb3b09f)
+
+
 
 
 Programming Languages: Python, R, JavaScript.
