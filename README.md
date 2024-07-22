@@ -10,7 +10,7 @@ Skills and Interests
 
 Programming Languages: Python, R, JavaScript.
 
-Technologies: SQL
+💻 Technologies: SQL
 
 Areas of Expertise: Data Science, Statistics, Mental Health
 
@@ -32,7 +32,7 @@ Personal Details
 
 ⚡ Fun Fact: Despite my background in psychology, I'm deeply passionate about becoming a developer in Data Science.
 
-GitHub Stats
+📈 GitHub Stats
 
 ![caio-videmelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-videmelo&show_icons=true&theme=transparent)
 
