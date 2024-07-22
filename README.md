@@ -14,7 +14,7 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 
 📜 Areas of Expertise: Data Science, Statistics, Mental Health
 
-## Courses and Certifications
+## 🎓 Courses and Certifications
 
 | Courses                                               | Certificates                                              |
 |-------------------------------------------------------|-----------------------------------------------------------|
