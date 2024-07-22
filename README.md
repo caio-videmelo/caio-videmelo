@@ -34,6 +34,8 @@ Personal Details
 
 GitHub Stats
 
+![caio-videmelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-videmelo&show_icons=true&theme=transparent)
+
 Projects
 
 Feel free to explore my repositories to see the projects I'm working on and have contributed to.
