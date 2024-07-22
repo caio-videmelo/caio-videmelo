@@ -4,6 +4,9 @@
 
 I am a psychologist with an MSc in Mental Health from Brazil, now moving into Data Science and Development. My transition into technology is fueled by my conviction in harnessing data to craft impactful solutions, especially within the healthcare sector. I am enthusiastic about combining technology with medicine to develop innovative and efficient outcomes.
 
+![GIF](https://github.com/user-attachments/assets/7f02b211-30ba-4b76-8255-3f2233303229)
+
+
 ## 🛠️ Skills and Interests
 
 :trophy: Badges: ![badge-GPT](https://github.com/user-attachments/assets/bd4b4a71-6a20-48e5-9649-f715eae614f3)
