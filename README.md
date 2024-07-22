@@ -28,8 +28,11 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 | ChatGPT Essentials                                    | [Certificate5](https://hermes.dio.me/certificates/cover/X7MNPJHM.jpg) |
 | Effective Prompts for ChatGPT                         | [Certificate6](https://hermes.dio.me/certificates/cover/JR70LQWJ.jpg) |
 
+## 📈 GitHub Stats
 
-🔍 Current Focus
+![caio-videmelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-videmelo&show_icons=true&theme=transparent)
+
+## 🔍 Current Focus
 
 I’m currently enhancing my skills in JavaScript and Python.
 
@@ -46,10 +49,6 @@ I’m currently enhancing my skills in JavaScript and Python.
 😄 Pronouns: He/His
 
 ⚡ Fun Fact: Despite my background in psychology, I'm deeply passionate about becoming a developer in Data Science.
-
-## 📈 GitHub Stats
-
-![caio-videmelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-videmelo&show_icons=true&theme=transparent)
 
 ## 🏗️ Projects
 
