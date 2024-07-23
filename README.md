@@ -6,8 +6,7 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 
 ## 🛠️ Skills and Interests
 
-🏅 Badges: ![badge-GPT](https://github.com/user-attachments/assets/bd4b4a71-6a20-48e5-9649-f715eae614f3) <img src="https://github.com/user-attachments/assets/0c7bbdba-4456-4358-a09b-f1f88cfa0dc5" alt="Formação" width="80"/> <img src="https://github.com/user-attachments/assets/dcebc840-080e-4f14-975d-fca19b6c0276" alt="AIFundamentals" width="80"/>
-
+🏅 Badges: ![badge-GPT](https://github.com/user-attachments/assets/bd4b4a71-6a20-48e5-9649-f715eae614f3) <img src="https://github.com/user-attachments/assets/00633ebd-6553-47e4-ad04-9f770296887f" alt="Formação" width="80"/> <img src="https://github.com/user-attachments/assets/dcebc840-080e-4f14-975d-fca19b6c0276" alt="AIFundamentals" width="80"/>
 
 🏋️‍♂️ Bootcamps: <img src= "https://github.com/user-attachments/assets/9c2ee0db-d449-4abe-aae7-c46dd337ffe8" alt="Bootcamp" width="80"/>
 
