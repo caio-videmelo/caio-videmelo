@@ -10,6 +10,10 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 
 🏋️‍♂️ Bootcamps: <img src= "https://github.com/user-attachments/assets/9c2ee0db-d449-4abe-aae7-c46dd337ffe8" alt="Bootcamp" width="80"/>
 
+| Bootcamps                                               | Certificates                                                   |
+|---------------------------------------------------------|----------------------------------------------------------------|
+| Bootcamp NEXA Machine Learning for Beginners with AWS   | [Certificate7](https://hermes.dio.me/certificates/M3T61YXK.pdf)|
+
 📜 Programming Languages: Python, R, JavaScript.
 
 💻 Technologies: SQL
