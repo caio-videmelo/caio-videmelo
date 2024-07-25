@@ -8,11 +8,13 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 
 🏅 Badges: <img src="https://github.com/user-attachments/assets/00633ebd-6553-47e4-ad04-9f770296887f" alt="Formação" width="80"/> <img src="https://github.com/user-attachments/assets/dcebc840-080e-4f14-975d-fca19b6c0276" alt="AIFundamentals" width="80"/> ![badge-GPT](https://github.com/user-attachments/assets/bd4b4a71-6a20-48e5-9649-f715eae614f3) <img src="https://github.com/user-attachments/assets/15b45cca-dee4-4ce7-b5cf-e88bdbf39960" alt="GitHub" width="80"/>
 
-🏋️‍♂️ Bootcamps: <img src= "https://github.com/user-attachments/assets/9c2ee0db-d449-4abe-aae7-c46dd337ffe8" alt="Bootcamp" width="80"/>
+🏋️‍♂️ Bootcamps: <img src="https://github.com/user-attachments/assets/09dcc8ae-d818-44f1-b432-db4ef9169294" alt="BootcampSol" width="80"/>
+<img src= "https://github.com/user-attachments/assets/9c2ee0db-d449-4abe-aae7-c46dd337ffe8" alt="Bootcamp" width="80"/>
 
-| Bootcamps                                               | Certificates                                                   |
-|---------------------------------------------------------|----------------------------------------------------------------|
-| Bootcamp NEXA Machine Learning for Beginners with AWS   | [Certificate7](https://hermes.dio.me/certificates/M3T61YXK.pdf)|
+| Bootcamps                                               | Certificates                                                          |
+|---------------------------------------------------------|-----------------------------------------------------------------------|
+| Bootcamp NEXA Machine Learning for Beginners with AWS   | [Certificate7](https://hermes.dio.me/certificates/M3T61YXK.pdf)       |
+| Bootcamp Blockchain Developer with Solidity             | [Certificate8] (https://hermes.dio.me/certificates/cover/YF2EL86C.jpg)|
 
 📜 Programming Languages: Python, R, JavaScript.
 
