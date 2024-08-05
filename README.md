@@ -6,7 +6,8 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 
 ## 🛠️ Skills and Interests
 
-🏅 Badges: <img src="https://github.com/user-attachments/assets/00633ebd-6553-47e4-ad04-9f770296887f" alt="Formação" width="80"/> <img src="https://github.com/user-attachments/assets/dcebc840-080e-4f14-975d-fca19b6c0276" alt="AIFundamentals" width="80"/> ![badge-GPT](https://github.com/user-attachments/assets/bd4b4a71-6a20-48e5-9649-f715eae614f3) <img src="https://github.com/user-attachments/assets/15b45cca-dee4-4ce7-b5cf-e88bdbf39960" alt="GitHub" width="80"/>
+🏅 Badges: <img src="https://github.com/user-attachments/assets/cc6fcf32-43ec-45f0-930d-b3aa7a0b99af" alt="Python" width="80"/> <img src="https://github.com/user-attachments/assets/00633ebd-6553-47e4-ad04-9f770296887f" alt="Formação" width="80"/> <img src="https://github.com/user-attachments/assets/dcebc840-080e-4f14-975d-fca19b6c0276" alt="AIFundamentals" width="80"/> ![badge-GPT](https://github.com/user-attachments/assets/bd4b4a71-6a20-48e5-9649-f715eae614f3) <img src="https://github.com/user-attachments/assets/15b45cca-dee4-4ce7-b5cf-e88bdbf39960" alt="GitHub" width="80"/> 
+
 
 🏋️‍♂️ Bootcamps: <img src="https://github.com/user-attachments/assets/09dcc8ae-d818-44f1-b432-db4ef9169294" alt="BootcampSol" width="80"/>
 <img src= "https://github.com/user-attachments/assets/9c2ee0db-d449-4abe-aae7-c46dd337ffe8" alt="Bootcamp" width="80"/>
@@ -27,6 +28,7 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 | Courses                                               | Certificates                                              |
 |-------------------------------------------------------|-----------------------------------------------------------|
 | Programming Logic Fundamentals                        | [Certificate3](https://hermes.dio.me/certificates/cover/IKZWS7UF.jpg) |
+| Pyhton Fundamentals                                   | [Certificate9](https://hermes.dio.me/certificates/cover/WOVOZIPX.jpg) |
 | Practical Applications of Artificial Intelligence     | [Certificate4](https://hermes.dio.me/certificates/cover/PSAOKYWW.jpg) |
 | Using ChatGPT as a Programming Copilot                | [Certificate5](https://hermes.dio.me/certificates/cover/VTDQ3DSN.jpg) |
 | Using ChatGPT to Refactor Code                        | [Certificate6](https://hermes.dio.me/certificates/cover/Q6UFDRJT.jpg) |
