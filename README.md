@@ -10,12 +10,15 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 
 
 🏋️‍♂️ Bootcamps: <img src="https://github.com/user-attachments/assets/09dcc8ae-d818-44f1-b432-db4ef9169294" alt="BootcampSol" width="80"/>
-<img src= "https://github.com/user-attachments/assets/9c2ee0db-d449-4abe-aae7-c46dd337ffe8" alt="Bootcamp" width="80"/>
+<img src= "https://github.com/user-attachments/assets/9c2ee0db-d449-4abe-aae7-c46dd337ffe8" alt="Bootcamp" width="80"/> <img src="https://github.com/user-attachments/assets/e547acdb-085a-4eca-a48c-3e474dbf93e5" alt= "BootcampCopilot" width="80"/>
 
-| Bootcamps                                               | Certificates                                                          |
-|---------------------------------------------------------|-----------------------------------------------------------------------|
-| Bootcamp NEXA Machine Learning for Beginners with AWS   | [Certificate1](https://hermes.dio.me/certificates/M3T61YXK.pdf)       |
-| Bootcamp Blockchain Developer with Solidity             | [Certificate2](https://hermes.dio.me/certificates/cover/YF2EL86C.jpg) |
+
+| Bootcamps                                               | Certificates                                                                                    |
+|---------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Bootcamp NEXA Machine Learning for Beginners with AWS   | [Certificate1](https://hermes.dio.me/certificates/M3T61YXK.pdf)                                 |
+| Bootcamp Blockchain Developer with Solidity             | [Certificate2](https://hermes.dio.me/certificates/cover/YF2EL86C.jpg)                           |
+| Bootcamp Microsoft Copilot AI                           | [Certificate3](https://github.com/user-attachments/assets/f07daf02-e426-4518-a8e7-327cfb4c8453) |
+
 
 📜 Programming Languages: Python, R, JavaScript.
 
