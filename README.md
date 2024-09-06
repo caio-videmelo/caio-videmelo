@@ -18,6 +18,7 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 | Bootcamp NEXA Machine Learning for Beginners with AWS   | [Certificate1](https://hermes.dio.me/certificates/M3T61YXK.pdf)                                 |
 | Bootcamp Blockchain Developer with Solidity             | [Certificate2](https://hermes.dio.me/certificates/cover/YF2EL86C.jpg)                           |
 | Bootcamp Microsoft Copilot AI                           | [Certificate3](https://github.com/user-attachments/assets/f07daf02-e426-4518-a8e7-327cfb4c8453) |
+| Bootcamp NEXA Prompt Engineering with AWS Bedrock       | [Certificate4](https://hermes.dio.me/certificates/cover/SANXEJ8P.jpg)                           |
 
 
 📜 Programming Languages: Python, R, JavaScript.
