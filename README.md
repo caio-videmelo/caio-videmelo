@@ -16,10 +16,10 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 
 | Bootcamps                                               | Certificates                                                                                    |
 |---------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Bootcamp NEXA Machine Learning for Beginners with AWS   | [Certificate1](https://hermes.dio.me/certificates/M3T61YXK.pdf)                                 |
-| Bootcamp Blockchain Developer with Solidity             | [Certificate2](https://hermes.dio.me/certificates/cover/YF2EL86C.jpg)                           |
-| Bootcamp Microsoft Copilot AI                           | [Certificate3](https://github.com/user-attachments/assets/f07daf02-e426-4518-a8e7-327cfb4c8453) |
-| Bootcamp NEXA Prompt Engineering with AWS Bedrock       | [Certificate4](https://hermes.dio.me/certificates/cover/SANXEJ8P.jpg)                           |
+| Bootcamp NEXA Machine Learning for Beginners with AWS   | [Certificate](https://hermes.dio.me/certificates/M3T61YXK.pdf)                                 |
+| Bootcamp Blockchain Developer with Solidity             | [Certificate](https://hermes.dio.me/certificates/cover/YF2EL86C.jpg)                           |
+| Bootcamp Microsoft Copilot AI                           | [Certificate](https://github.com/user-attachments/assets/f07daf02-e426-4518-a8e7-327cfb4c8453) |
+| Bootcamp NEXA Prompt Engineering with AWS Bedrock       | [Certificate](https://hermes.dio.me/certificates/cover/SANXEJ8P.jpg)                           |
 
 
 📜 Programming Languages: Python, R, JavaScript.
@@ -30,15 +30,16 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 
 ## 🎓 Courses and Certifications
 
-| Courses                                               | Certificates                                              |
-|-------------------------------------------------------|-----------------------------------------------------------|
-| Programming Logic Fundamentals                        | [Certificate3](https://hermes.dio.me/certificates/cover/IKZWS7UF.jpg) |
-| Pyhton Fundamentals                                   | [Certificate9](https://hermes.dio.me/certificates/cover/WOVOZIPX.jpg) |
-| Practical Applications of Artificial Intelligence     | [Certificate4](https://hermes.dio.me/certificates/cover/PSAOKYWW.jpg) |
-| Using ChatGPT as a Programming Copilot                | [Certificate5](https://hermes.dio.me/certificates/cover/VTDQ3DSN.jpg) |
-| Using ChatGPT to Refactor Code                        | [Certificate6](https://hermes.dio.me/certificates/cover/Q6UFDRJT.jpg) |
-| ChatGPT Essentials                                    | [Certificate7](https://hermes.dio.me/certificates/cover/X7MNPJHM.jpg) |
-| Effective Prompts for ChatGPT                         | [Certificate8](https://hermes.dio.me/certificates/cover/JR70LQWJ.jpg) |
+| Courses                                               | Certificates                                                                                       |
+|-------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Programming Logic Fundamentals                        | [Certificate](https://hermes.dio.me/certificates/cover/IKZWS7UF.jpg)                               |
+| Pyhton Fundamentals                                   | [Certificate](https://hermes.dio.me/certificates/cover/WOVOZIPX.jpg)                               |
+| Practical Applications of Artificial Intelligence     | [Certificate](https://hermes.dio.me/certificates/cover/PSAOKYWW.jpg)                               |
+| Using ChatGPT as a Programming Copilot                | [Certificate](https://hermes.dio.me/certificates/cover/VTDQ3DSN.jpg)                               |
+| Using ChatGPT to Refactor Code                        | [Certificate](https://hermes.dio.me/certificates/cover/Q6UFDRJT.jpg)                               |
+| ChatGPT Essentials                                    | [Certificate](https://hermes.dio.me/certificates/cover/X7MNPJHM.jpg)                               |
+| Effective Prompts for ChatGPT                         | [Certificate](https://hermes.dio.me/certificates/cover/JR70LQWJ.jpg)                               |
+| AI-Agents: Automation & Business with Langchain & LLM Apps | [Certificate](https://github.com/user-attachments/assets/e3d04cc9-2733-4039-b6f8-28cafc2a7ac9)|
 
 ## 📈 GitHub Stats
 
