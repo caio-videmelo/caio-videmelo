@@ -6,7 +6,7 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 
 ## 🛠️ Skills and Interests
 
-🏅 Badges: <img src="https://github.com/user-attachments/assets/cc6fcf32-43ec-45f0-930d-b3aa7a0b99af" alt="Python" width="80"/> <img src="https://github.com/user-attachments/assets/00633ebd-6553-47e4-ad04-9f770296887f" alt="Formação" width="80"/> <img src="https://github.com/user-attachments/assets/dcebc840-080e-4f14-975d-fca19b6c0276" alt="AIFundamentals" width="80"/> ![badge-GPT](https://github.com/user-attachments/assets/bd4b4a71-6a20-48e5-9649-f715eae614f3) <img src="https://github.com/user-attachments/assets/15b45cca-dee4-4ce7-b5cf-e88bdbf39960" alt="GitHub" width="80"/> <img src="![e7d0c94f-621b-4956-9cd1-fc37c957a745](https://github.com/user-attachments/assets/7e38f8c7-330f-48cf-ba9f-1889211256a6)" alt="Web" width="80"/>
+🏅 Badges: <img src="https://github.com/user-attachments/assets/cc6fcf32-43ec-45f0-930d-b3aa7a0b99af" alt="Python" width="80"/> <img src="https://github.com/user-attachments/assets/00633ebd-6553-47e4-ad04-9f770296887f" alt="Formação" width="80"/> <img src="https://github.com/user-attachments/assets/dcebc840-080e-4f14-975d-fca19b6c0276" alt="AIFundamentals" width="80"/> ![badge-GPT](https://github.com/user-attachments/assets/bd4b4a71-6a20-48e5-9649-f715eae614f3) <img src="https://github.com/user-attachments/assets/15b45cca-dee4-4ce7-b5cf-e88bdbf39960" alt="GitHub" width="80"/> <img src="https://github.com/user-attachments/assets/7e38f8c7-330f-48cf-ba9f-1889211256a6" alt="Web" width="80"/>
 
 
 
