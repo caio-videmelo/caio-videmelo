@@ -10,7 +10,8 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 
 
 🏋️‍♂️ Bootcamps: <img src="https://github.com/user-attachments/assets/09dcc8ae-d818-44f1-b432-db4ef9169294" alt="BootcampSol" width="80"/>
-<img src= "https://github.com/user-attachments/assets/9c2ee0db-d449-4abe-aae7-c46dd337ffe8" alt="Bootcamp" width="80"/> <img src="https://github.com/user-attachments/assets/e547acdb-085a-4eca-a48c-3e474dbf93e5" alt= "BootcampCopilot" width="80"/> <img src="https://github.com/user-attachments/assets/0f9840d4-e11e-4327-a2b7-da8bcfaf6c3b" alt="BootcampClaude" width="80"/>
+<img src= "https://github.com/user-attachments/assets/9c2ee0db-d449-4abe-aae7-c46dd337ffe8" alt="Bootcamp" width="80"/> <img src="https://github.com/user-attachments/assets/e547acdb-085a-4eca-a48c-3e474dbf93e5" alt= "BootcampCopilot" width="80"/> <img src="https://github.com/user-attachments/assets/0f9840d4-e11e-4327-a2b7-da8bcfaf6c3b" alt="BootcampClaude" width="80"/> <img src="https://github.com/user-attachments/assets/8952ad44-c810-471e-b4f2-41e1fab73815" alt="Blockchain" width="80'/> 
+
 
 
 
@@ -20,6 +21,7 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 | Bootcamp Blockchain Developer with Solidity             | [Certificate](https://hermes.dio.me/certificates/cover/YF2EL86C.jpg)                           |
 | Bootcamp Microsoft Copilot AI                           | [Certificate](https://github.com/user-attachments/assets/f07daf02-e426-4518-a8e7-327cfb4c8453) |
 | Bootcamp NEXA Prompt Engineering with AWS Bedrock       | [Certificate](https://hermes.dio.me/certificates/cover/SANXEJ8P.jpg)                           |
+| Bootcamp Blockchain Specialist                          | [Certificate](https://github.com/user-attachments/files/17063049/Certificado_Blockchain.pdf)   |
 
 
 📜 Programming Languages: Python, R, JavaScript.
