@@ -34,7 +34,7 @@ I am a psychologist with an MSc in Mental Health from Brazil, now moving into Da
 | Courses                                               | Certificates                                                                                       |
 |-------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Programming Logic Fundamentals                        | [Certificate](https://hermes.dio.me/certificates/cover/IKZWS7UF.jpg)                               |
-| Pyhton Fundamentals                                   | [Certificate](https://hermes.dio.me/certificates/cover/WOVOZIPX.jpg)                               |
+| Python Fundamentals                                   | [Certificate](https://hermes.dio.me/certificates/cover/WOVOZIPX.jpg)                               |
 | Practical Applications of Artificial Intelligence     | [Certificate](https://hermes.dio.me/certificates/cover/PSAOKYWW.jpg)                               |
 | Using ChatGPT as a Programming Copilot                | [Certificate](https://hermes.dio.me/certificates/cover/VTDQ3DSN.jpg)                               |
 | Using ChatGPT to Refactor Code                        | [Certificate](https://hermes.dio.me/certificates/cover/Q6UFDRJT.jpg)                               |
